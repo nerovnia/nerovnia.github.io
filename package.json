@@ -1,0 +1,25 @@
+{
+  "name": "nerovnia.github.io",
+  "version": "0.0.1",
+  "description": "Personal page",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerovnia/nerovnia.github.io.git"
+  },
+  "keywords": [
+    "personal",
+    "page",
+    "web",
+    "developer"
+  ],
+  "author": "Volodymyr Nerovnia <nerv@i.ua>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nerovnia/nerovnia.github.io/issues"
+  },
+  "homepage": "https://github.com/nerovnia/nerovnia.github.io#readme"
+}
